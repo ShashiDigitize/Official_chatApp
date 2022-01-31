@@ -26,6 +26,7 @@ footer.StickyFooter {
   float: left;
   width: 98%;
   margin: 5px 0 0 2%;
+  padding-bottom: 20px;
 }
   
 .MessageBox .ChatMessage {
